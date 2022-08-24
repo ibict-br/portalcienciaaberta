@@ -24,7 +24,7 @@
 
 <body <?php body_class(); ?>>
     <header>
-
+        <!-- BARRA BRASIL --
         <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
             <ul id="menu-barra-temp" style="list-style:none;">
                 <li
@@ -35,7 +35,7 @@
                 </li>
             </ul>
         </div>
-
+-->
         <section class="menu-area">
             <div class="container-fluid">
                 <div class="row">
