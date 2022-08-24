@@ -1,0 +1,147 @@
+body {
+    background-color: #FFFFFF;
+}
+
+/* Barra Governo */
+.social-media-icons{background-color: rgb(11, 4, 70); height: 30px; color: white;}
+.searchs{background-color: rgb(11, 4, 70); height: 30px; color: white;}
+
+/* Tirar fundo cinza do Menu */
+
+.bg-light {
+    background-color: rgb(255, 255, 255) !important;
+    width: 100%;
+    padding: 0;
+}
+
+/* Busca Site */
+
+.search{
+    margin-top: 20px;
+    padding-top: 7px;
+}
+
+/* Dropdown Bootstrap */
+.dropdown {
+    position: relative;
+    padding: 0px;
+}
+.dropdown-item{
+    font-size: 14px;
+}
+/*Cor fonte menu tags Bootstrap */
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(26, 23, 23);
+    width: 100%;
+    margin-top: 15px;
+}
+
+/*Cor fonte */
+
+.corMenu2 {
+    background-color: #e7e7e7;
+    height: 60px;
+}
+
+/* Menu Principal */
+
+#menu-menu-principal {
+    font-size: 14px;
+    padding: 0px 0px 15px 0px;
+    color: white;
+    border-bottom: 2px solid transparent;
+    transition: border-color 300ms;
+}
+
+#menu-menu-principal li a {
+    color: #000000;
+    border-bottom: 2px solid transparent;
+    transition: border-color 300ms;
+    padding: 5px 48px 0 48px;
+ }
+
+ #menu-menu-principal li a:hover {
+    border-color: orange;
+ }
+
+/* Menu Secundario*/
+#menu-menu-secundario {
+    background: #e7e7e7;
+    width: 100%;
+    font-size: 14px;
+    padding-bottom: 19px;
+    padding-left: 80px;
+    color: white;
+    border-bottom: 2px solid transparent;
+    transition: border-color 300ms;
+}
+
+#menu-menu-secundario li a {
+    color: rgb(0, 0, 0);
+    border-bottom: 2px solid transparent;
+    transition: border-color 300ms; 
+    padding: 15px 30px 0  30px;
+ }
+
+ #menu-menu-secundario a:hover {
+    border-color: orange;
+ }
+
+ 
+/* Media Queries */
+
+/* Dispositivos small (telefones em modo paisagem, com 576px ou mais) */
+@media (max-width: 576px) { 
+    #menu-menu-secundario {
+        background: #e7e7e7;
+        width: 100%;
+        font-size: 14px;
+        padding-bottom: 19px;
+        padding-left: 25px;
+        color: white;
+        border-bottom: 2px solid transparent;
+        transition: border-color 300ms;
+    }
+ }
+
+/* Dispositivos médios (tablets com 768px ou mais) */
+@media (min-width: 768px) { 
+    #menu-menu-secundario {
+        background: #e7e7e7;
+        width: 100%;
+        font-size: 14px;
+        padding-bottom: 19px;
+        padding-left: 25px;
+        color: white;
+        border-bottom: 2px solid transparent;
+        transition: border-color 300ms;
+    }
+ }
+
+/* Dispositivos large (desktops com 992px ou mais) */
+@media (min-width: 992px) { 
+    #menu-menu-secundario {
+        background: #e7e7e7;
+        width: 100%;
+        font-size: 14px;
+        padding-bottom: 19px;
+        padding-left: 80px;
+        color: white;
+        border-bottom: 2px solid transparent;
+        transition: border-color 300ms;
+    }
+ }
+
+/* Dispositivos extra large (desktops grandes com 1200px ou mais) */
+@media (min-width: 1200px) { 
+    #menu-menu-secundario {
+        background: #e7e7e7;
+        width: 100%;
+        font-size: 14px;
+        padding-bottom: 19px;
+        padding-left: 80px;
+        color: white;
+        border-bottom: 2px solid transparent;
+        transition: border-color 300ms;
+    }
+ }
