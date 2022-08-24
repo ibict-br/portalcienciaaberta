@@ -40,7 +40,7 @@
             <div class="container-fluid">
                 <div class="row">
 
-                    <nav class="navbar navbar-expand-xl navbar-light bg-light ml-2" role="navigation">
+                    <nav class="navbar navbar-expand-xl navbar-light bg-light ml-5" role="navigation">
 
 
                         <!-- Brand and toggle get grouped for better mobile display -->
