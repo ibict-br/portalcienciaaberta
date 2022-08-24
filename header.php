@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portal Brasileiro de Ciência Aberta</title>
     <?php wp_head(); ?>
-    <!-- Carrega todos os scripts e styles -->
+    <!-- Carrega todos os scripts e estilos -->
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-GLNR2BVNPZ"></script>
     <script>
