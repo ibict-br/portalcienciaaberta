@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portal Brasileiro de Ciência Aberta - Ibict</title>
     <?php wp_head(); ?>
-    <!-- Carrega todos os scripts e estilos -->
+    <!-- Carrega todos os scripts e styles -->
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-GLNR2BVNPZ"></script>
     <script>
