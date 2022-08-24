@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portal Brasileiro de Ciência Aberta</title>
+    <title>Portal Brasileiro de Ciência Aberta - Ibict</title>
     <?php wp_head(); ?>
     <!-- Carrega todos os scripts e estilos -->
     <!-- Global site tag (gtag.js) - Google Analytics -->
